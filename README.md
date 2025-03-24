@@ -1,2 +1,3 @@
 # Knowledge-Extraction
 A Jupyter Notebook that performs data manipulation and knowledge extraction on a dataset from the Reddit subreddit r/peloton, focusing on discussions about the 2021 Tour de France. 
+Using Python libraries such as NumPy, Pandas, spaCy, eng_spacysentiment, and SciPy, the notebook processes timestamps, handles data inconsistencies, extracts meaningful information, and conducts sentiment and statistical analyses. Key tasks include fixing karma inconsistencies, extracting stage numbers and types, filtering comments for specific stages, performing sentiment analysis on comment texts, and testing statistical hypotheses related to comment scores and lengths.
